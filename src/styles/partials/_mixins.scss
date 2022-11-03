@@ -1,0 +1,5 @@
+@mixin page($background-color) {
+    background-color: $background-color;
+    min-height: 10rem;
+    padding: 2rem;
+}
